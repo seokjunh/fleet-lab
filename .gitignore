@@ -1,0 +1,4 @@
+*.pptx
+CURRICULUM.md
+.venv/
+__pycache__/
